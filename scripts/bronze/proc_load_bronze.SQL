@@ -200,3 +200,5 @@ BEGIN
 
 END;
 GO
+
+EXEC bronze.load_bronze;
